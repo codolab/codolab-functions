@@ -1,0 +1,21 @@
+{
+  "name": "codolab-functions",
+  "description": "Provide access to codolab-functions",
+  "version": "0.1.0",
+  "author": "Marius Vinickis <marius@codolab.com> (http://github.com/wandergin)",
+  "bugs" : {
+    "url" : "http://github.com/codolab/codolab-functions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/codolab/codolab-functions.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+  },
+  "contributors": [
+    "author": "Dziugas Sablauskas"
+  ]
+}
